@@ -71,6 +71,7 @@ p{
     line-height: 60px;
     margin: 25px 0;
     color: #fff;
+    font-weight: 300;
 }
 .btn {
     display: inline-block;
