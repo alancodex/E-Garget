@@ -82,5 +82,13 @@ p{
     border-radius: 30px;
     width: 100%;
     text-align: center;
-    
+    transition: background 0.5s
+}
+
+.btn:hover {
+    background: #1a1e5a;
+}
+
+header .row {
+    margin-top: 50px;
 }
